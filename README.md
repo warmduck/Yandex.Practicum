@@ -1,1 +1,1 @@
-# 1.Practicum-Yandex.Music
+# Yandex.Practicum
